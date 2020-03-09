@@ -1,33 +1,10 @@
 {
-  "users": [{
-            "id": 1,
-            "firstname": "Zinedine",
-            "lastname": "Sinan"
-          },
-          {
-              "id": 2,
-              "firstname": "Jeremy",
-              "lastname": "Brigaud"
-          },
-          {
-              "id": 3,
-              "firstname": "Corentin",
-              "lastname": "Jayer"
-          },
-          {
-              "id": 4,
-              "firstname": "Thomas",
-              "lastname": "Souq"
-          },
-          {
-              "id": 5,
-              "firstname": "Yasmin",
-              "lastname": "Martinez"
-          },
-          {
-              "id": 6,
-              "firstname": "Adele",
-              "lastname": "Morgan"
-          }
-          ]
+  "users": [
+        {"id": 1,"firstname": "Zinedine","lastname": "Sinan"},
+        {"id": 2,"firstname": "Jeremy","lastname": "Brigaud"},
+        {"id": 3,"firstname": "Corentin","lastname": "Jayer"},
+        {"id": 4,"firstname": "Thomas","lastname": "Souq"},
+        {"id": 5,"firstname": "Yasmin","lastname": "Martinez"},
+        {"id": 6,"firstname": "Adele","lastname": "Morgan"}
+    ]
 }
